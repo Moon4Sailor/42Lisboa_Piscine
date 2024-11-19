@@ -1,4 +1,5 @@
-                           42 Projects
+Thanks [RickyMercury](https://github.com/rickymercury)  
+42 Projects
 
 # C00 - Introdução ao C
 

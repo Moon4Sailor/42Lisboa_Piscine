@@ -10,7 +10,7 @@ O projeto C00 serve como uma introdução à aprendizagem da linguagem C, permit
 
 | Exercício |       Função                         | O que a Função Faz                                                                       |
 |-----------|--------------------------------------|------------------------------------------------------------------------------------------|
-| ex00         | [ft_putchar](https://https://github.com/Moon4Sailor/42Lisboa_Piscine/blob/main/Exercises/C00/a.c)                        | Imprime um caractere.                                   |
+| ex00         | [ft_putchar](https://github.com/Moon4Sailor/42Lisboa_Piscine/blob/main/Exercises/C00/a.c)                        | Imprime um caractere.                                   |
 | ex01         | [ft_print_alphabet](https://github.com/rickymercury/Piscine_42/tree/master/Projetos/C00/ex01)                        | Imprime o alfabeto em ordem crescente.                                   |
 | ex02         | [ft_print_reverse_alphabet](https://github.com/rickymercury/Piscine_42/tree/master/Projetos/C00/ex02)                        | Imprime o alfabeto em ordem decrescente.                                   |
 | ex03         | [ft_print_numbers](https://github.com/rickymercury/Piscine_42/tree/master/Projetos/C00/ex03)                        | Imprime os números de 0 a 9.                                   |
